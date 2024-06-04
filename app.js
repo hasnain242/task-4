@@ -1,0 +1,1 @@
+document.write('YaY!'+" " +"i can write html content through javascript")
